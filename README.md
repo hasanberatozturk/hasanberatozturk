@@ -1,6 +1,6 @@
 # Merhaba, ben Hasan Berat Öztürk 👋
 
-Kırklareli Üniversitesi'nde yazılım mühendisliği öğrencisiyim. Python ağırlıklı projeler geliştiriyor; web ve mobil uygulamalarla, oyunlarla ve veri odaklı çalışmalarla ilgileniyorum.
+<img src="https://bidb.klu.edu.tr/dosyalar/birimler/bidb/dosyalar/resimler/logo.gif" alt="Kırklareli Üniversitesi logosu" width="48" height="48" /> Kırklareli Üniversitesi'nde yazılım mühendisliği öğrencisiyim. Python ağırlıklı projeler geliştiriyor; web ve mobil uygulamalarla, oyunlarla ve veri odaklı çalışmalarla ilgileniyorum.
 
 ## 🛠️ Teknolojiler ve Araçlar
 
